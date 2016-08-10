@@ -10,6 +10,10 @@ public String sayBye(){
 	
 public String thankYou(){
 	return "Thank You Masha ALLA";
+
+public int id(){
+	return 234;
+}
 }
 }
 
