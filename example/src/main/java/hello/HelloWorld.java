@@ -9,6 +9,7 @@ public class HelloWorld {
 		
 		System.out.println(greeter.sayBye());
 		
+		System.out.println(greeter.thankYou());
 	}
 
 }

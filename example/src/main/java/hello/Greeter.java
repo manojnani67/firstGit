@@ -7,6 +7,10 @@ public String sayHello(){
 
 public String sayBye(){
 	return "Good BYE";
+	
+public String thankYou(){
+	return "Thank You Masha ALLA";
+}
 }
 
 }
